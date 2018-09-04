@@ -1,2 +1,2 @@
 # C-Language
-Clanguage Notes
+C language Notes
